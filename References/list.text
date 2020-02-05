@@ -1,0 +1,20 @@
+Papers citing Hyphy
+1. https://omictools.com/hyphy-tool
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4612600/
+
+
+
+Pipeline
+1. NIH website for sequences
+2. Protein fasta and transcript fasta
+3. Get codons (codons.py)
+4. Codon alignment
+4a. Run codon aware msa.sh
+4b. In MEGA, muscle codon alignment with NJ trees
+4c. Compare results downstream
+5. Datamonkey
+5a. Analyses to perform: aBSREL, BGM, BUSTED, FEL, FUBAR, GARD, MEME, RELAX, SLAC
+5b. FMM
+
+
+Author: alexander.lucaci@temple.edu
